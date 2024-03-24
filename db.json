@@ -1,0 +1,173 @@
+{
+  projects: [
+    {
+      "cover": "https://i.postimg.cc/5yFCwx4t/Rectangle-22.jpg",
+      "name": "ChertNodes",
+      "description": "Minecraft servers hosting",
+      "technologies": [
+        "HTML",
+        "SCSS",
+        "Python",
+        "Flask"
+      ],
+      "versions": [
+        "Live",
+        "Cached"
+      ],
+      "type": "complete"
+    },
+    {
+      "cover": "https://i.postimg.cc/pTSjh9t7/Rectangle-22-3.png",
+      "name": "Kahoot Answers Viewer",
+      "description": "Get answers to your kahoot quiz",
+      "technologies": [
+        "CSS",
+        "Express",
+        "Node.js"
+      ],
+      "versions": [
+        "Live"
+      ],
+      "type": "complete"
+    },
+    {
+      "cover": "https://i.postimg.cc/tTJP438W/Rectangle-22-2.png",
+      "name": "ProtectX",
+      "description": "Discord anti-crash bot",
+      "technologies": [
+        "React",
+        "Express",
+        "Discord.js",
+        "Node.js"
+      ],
+      "versions": [
+        "Cached"
+      ],
+      "type": "complete"
+    },
+    {
+      "cover": "https://i.postimg.cc/N0pmtJCQ/Rectangle-22.png",
+      "name": "Kotkit Bot",
+      "description": "Multi-functional discord bot",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "versions": [
+        "Live"
+      ],
+      "type": "complete"
+    },
+    {
+      "cover": "https://i.postimg.cc/Z0tyH1nx/Rectangle-22-1.png",
+      "name": "Portfolio",
+      "description": "You're using it rn",
+      "technologies": [
+        "Vue",
+        "TS",
+        "Less"
+      ],
+      "versions": [
+        "Github"
+      ],
+      "type": "complete"
+    },
+    {
+      "name": "Bot boilerplate",
+      "description": "Start creating scalable Discord.js bot with typescript in seconds",
+      "technologies": [
+        "Discord.js",
+        "TS",
+        "JS"
+      ],
+      "versions": [
+        "Github"
+      ],
+      "type": "small"
+    },
+    {
+      "name": "Ny Blog",
+      "description": "Front-end of my feature blog website written in view",
+      "technologies": [
+        "Vue",
+        "CSS",
+        "JS"
+      ],
+      "versions": [
+        "Github"
+      ],
+      "type": "small"
+    },
+    {
+      "name": "Chess pro",
+      "description": "Figma landing page about service for viewing chess tournaments",
+      "technologies": [
+        "Figma"
+      ],
+      "versions": [
+        "Figma"
+      ],
+      "type": "small"
+    },
+    {
+      "name": "Crash protect website",
+      "description": "Figma template for website about anti-raid, anti-crash discord bot",
+      "technologies": [
+        "Figma"
+      ],
+      "versions": [
+        "Figma"
+      ],
+      "type": "small"
+    },
+    {
+      "name": "CSS expirements",
+      "description": "Collection of my different little projects in css",
+      "technologies": [
+        "HTML",
+        "CSS"
+      ],
+      "versions": [
+        "Live"
+      ],
+      "type": "small"
+    },
+    {
+      "name": "Web Dev nvim config",
+      "description": "Config for neovim perfect for web developer",
+      "technologies": [
+        "Lua",
+        "NeoVim"
+      ],
+      "versions": [
+        "Github"
+      ],
+      "type": "small"
+    },
+    {
+      "name": "Ooku",
+      "description": "Simple link shortener with auth",
+      "technologies": [
+        "Python",
+        "Quart",
+        "HTML"
+      ],
+      "versions": [
+        "Live"
+      ],
+      "type": "small"
+    },
+    {
+      "name": "School website",
+      "description": "Figma template website for my school",
+      "technologies": [
+        "Figma"
+      ],
+      "versions": [
+        "Figma"
+      ],
+      "type": "small"
+    }
+  ]
+}
